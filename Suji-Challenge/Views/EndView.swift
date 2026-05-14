@@ -45,8 +45,6 @@ struct EndView: View {
                 .foregroundStyle(.white.opacity(0.8))
                 .multilineTextAlignment(.leading)
                 
-                
-                
                 Spacer()
                 
                 SujiButton(title: "Finish", isEnabled: true) {

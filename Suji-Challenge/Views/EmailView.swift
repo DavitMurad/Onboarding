@@ -19,7 +19,7 @@ struct EmailView: View {
     var body: some View {
         GeometryReader { geom in
             ZStack {
-                Image("onboarding_background")
+                Image("onb")
                     .resizable()
                     .scaledToFill()
                     .ignoresSafeArea()

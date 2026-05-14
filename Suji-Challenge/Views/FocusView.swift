@@ -17,7 +17,6 @@ struct FocusView: View {
                 focusContent
             }
             if userState.user.focusAreas.count > 0 {
-                
                 SujiButton(title: "Continue", isEnabled: true) {
                     path.append(.upload)
                 }
@@ -25,7 +24,6 @@ struct FocusView: View {
                 .padding(.horizontal, 30)
                 .frame(maxHeight: .infinity, alignment: .bottom)
                 .transition(.move(edge: .bottom).combined(with: .opacity))
-                
             }
         }
         .toolbar {

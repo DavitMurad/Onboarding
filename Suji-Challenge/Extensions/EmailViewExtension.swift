@@ -34,6 +34,7 @@ extension EmailView {
                 )
                 .shadow(color: .black.opacity(0.4), radius: 30)
                 .padding()
+                .animation(.easeInOut(duration: 0.35), value: isFieldFocused)
                 .overlay {
                     VStack(spacing: 25) {
                         Text("Sign Up")

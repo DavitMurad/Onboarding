@@ -42,7 +42,6 @@ extension DOBView {
                 
                 Spacer()
                 
-                
                 SujiButton(title: "Continue", isEnabled: true) {
                     userState.user.dob = selectedBirthDate.formatted(date: .numeric, time: .omitted)
                     path.append(.sex)
