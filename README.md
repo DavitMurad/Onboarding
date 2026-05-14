@@ -1,9 +1,8 @@
 # Suji-Onboarding Reflection
 
 ## Demo
-[https://github.com/user-attachments/assets/12e662b1-785a-48bf-aadb-66076fce9470
-](https://github.com/user-attachments/assets/8de29bd4-b22f-464e-b398-68c402fa3ed4
-)
+https://github.com/user-attachments/assets/4722ab5b-db0c-49b2-bee1-22a63dc0908a
+
 ## Overview
 Very engaging task that targets state management, navigation flow, and clean UI/UX. I quite enjoyed the idea of testing something different with each view. I also loved the openness in terms of architecture and design decisions, it gives real ownership of the task, which I value a lot.
 
